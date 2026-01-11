@@ -1,0 +1,18 @@
+
+
+   git status
+ 
+   18  git add testing.py
+   19  git status testing.py
+   20  git commit testing.py
+   22  git status
+   23  git commit testing.py
+   24  git add testing.py
+   25  git commit -m this is test file testing.py
+   26  git commit -m "added testing files"
+   27  git config --global user.name "Manish Kumar"
+   28  git config --global user.email "manish27031993@gmail.com"
+   29  git commit -m "added testing files"
+   30  git status
+   31  rm testing.py
+   35  git status
