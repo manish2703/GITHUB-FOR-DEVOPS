@@ -20,3 +20,5 @@
       git push origin master
       git  clone 
       fork - fork is used for personal copy of someone repo to our account
+
+this is new channges test by Manish Kumar
