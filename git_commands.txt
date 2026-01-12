@@ -16,3 +16,7 @@
    30  git status
    31  rm testing.py
    35  git status
+   36  git  remote add
+      git push origin master
+      git  clone 
+      fork - fork is used for personal copy of someone repo to our account
